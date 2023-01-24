@@ -1,0 +1,85 @@
+body {
+background-color: rgb(48, 46, 46);
+color: white;
+}
+
+table {
+  border-collapse: collapse;
+  height: 50px;
+  width: auto;
+  margin: auto;
+}
+
+th, td {
+  border: 0.1px solid rgb(86, 86, 86);
+  padding: 10px;
+  height: 20px;
+  width: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.white 
+{
+  color: black;
+  background-color: white;
+}
+
+.yellow
+{
+  color: white;
+  background-color: #ff9d00;
+  text-align: center;
+}
+
+.red
+{
+  color: white;
+  background-color: #ec3d45;
+  text-align: center;
+}
+
+.blue
+{
+  color: white;
+  background-color: #08b9ca;
+  text-align: center;
+}
+
+.align
+{
+  text-align: center;
+}
+
+.orange
+{
+  color: #ff9d00;
+  font-weight: 700;
+}
+
+.rubis
+{
+  color: #ec3d45;
+  font-weight: 700;
+}
+
+.azur
+{
+  color: #08b9ca;
+  font-weight: 700;
+}
+
+.button
+{
+  display:block;
+  width:100px;
+  line-height:40px;
+  text-align:center;
+  background-color: #ff9d00;
+  text-decoration:none;
+  border-radius: 40px;
+  border: none;
+  }
+  
